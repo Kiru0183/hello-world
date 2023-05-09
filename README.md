@@ -1,2 +1,5 @@
 # hello-world
-sample one
+**Im kiuthika I have done java fullstack developrmrnt course**
+*this is italic text*
+<sub> this is subscript text</sub>
+
