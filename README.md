@@ -3,3 +3,4 @@
 *this is italic text*
 <sub> this is subscript text</sub>
 
+<b>simple one<b>
